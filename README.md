@@ -1,1 +1,1 @@
-# fun-personal-project
+A fun personal project I am working on to test and put skills learned to use outside of The Odin Project exercises.
